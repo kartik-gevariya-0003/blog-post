@@ -1,0 +1,45 @@
+.title {
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.subTitle {
+    font-size: 14px;
+}
+
+.postCard {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+    transition: 0.3s;
+    border-radius: 15px;
+}
+
+.commentDate {
+    font-size: 12px;
+    margin-top: 2px;
+}
+
+.date {
+    float: right;
+    font-size: 12px;
+    margin-top: 2px;
+}
+
+.cardHeader {
+    padding: 0.5rem 1rem;
+    margin-bottom: 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+    background-color: rgba(0,0,0,0);
+}
+
+.cardFooter {
+    padding: 0.5rem 1rem;
+    border-top: 1px solid rgba(0,0,0,.125);
+    background-color: rgba(0,0,0,0);
+}
+
+.commentText {
+    cursor: pointer;
+    color: #2b32b2;
+}
